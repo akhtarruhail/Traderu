@@ -1,0 +1,11 @@
+{
+  "name": "trading-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ai": "^3.0.0",
+    "openai": "^4.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
